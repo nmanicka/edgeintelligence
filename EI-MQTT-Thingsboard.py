@@ -1,3 +1,9 @@
+######################################################################################
+# Description: Sample MQTT python script to recieve MQTT data from Edge Intelligence #
+#              and re-publish to ThingsBoard, using custom Auth Token and MQTT Topic.#
+# Author: Naveen Manicka (nmanicka@gmail.com)                                        #
+######################################################################################
+
 import time
 import paho.mqtt.client as mqttClient
 import json
