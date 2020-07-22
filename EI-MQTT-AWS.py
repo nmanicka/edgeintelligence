@@ -1,3 +1,9 @@
+######################################################################################
+# Description: Sample MQTT python script to recieve MQTT data from Edge Intelligence #
+#              and re-publish to AWS IOT Core using X.509 certs based connection.    #
+# Author: Naveen Manicka (nmanicka@gmail.com)                                        #
+######################################################################################
+
 import ssl
 import time
 import paho.mqtt.client as mqttClient
