@@ -4,21 +4,5 @@
   - Cloud Portal account - A valid account in Cisco EI cloud portal
 3. Knowledge of Cisco EI - docs @ https://developer.cisco.com/edge-intelligence/
 4. Destination account in AWS IoT Core and ThingsBoard (Local instance or demo.thingsboard.io)
-5. Python modules: (pip freeze)
-
-asn1crypto==0.24.0
-cryptography==2.1.4
-enum34==1.1.6
-idna==2.6
-ipaddress==1.0.17
-keyring==10.6.0
-keyrings.alt==3.0
-paho-mqtt==1.5.0
-pycrypto==2.6.1
-pygobject==3.26.1
-pyxdg==0.25
-SecretStorage==2.3.1
-six==1.11.0
-
-
+5. Python modules: ssl, paho-mqtt, json
  
