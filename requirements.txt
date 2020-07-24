@@ -1,0 +1,8 @@
+1. Sensors/PLCs/Simulators - of type: MQTT, OPCUA, Modbus TCP/Serial
+2. Cisco Edge Intelligence (EI)
+  - Edge Software - SW packages can be downloaded from Cisco.com
+  - Cloud Portal account - A valid account in Cisco EI cloud portal
+3. Knowledge of Cisco EI - docs @ https://developer.cisco.com/edge-intelligence/
+4. Destination account in AWS IoT Core and ThingsBoard (Local instance or demo.thingsboard.io)
+
+ 
