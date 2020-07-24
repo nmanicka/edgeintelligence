@@ -6,7 +6,7 @@
 
 Using standard MQTT destination configuration in EI, data can be forwarded to many destinations like AWS IoT Core, ThingsBoard dashboard etc.
 
-![Sample data flow](EI_Sample_Code_FlowDiagram.jpg)
+![Sample data flow](EI_Code_FlowDiagram.jpg)
 
 Here is some sample code for receiving MQTT data from Edge Intelligence and re-publishing to AWS IOT Core and ThingsBoard.
 
