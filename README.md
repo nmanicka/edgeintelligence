@@ -33,9 +33,6 @@ Here is some sample code for receiving MQTT data from Edge Intelligence and re-p
 
 	Published to AWS
 
-	^Cexiting
-	Local MQTT Client Got Disconnected
-
 
 ### 2. Thingsboard Dashboard : EI-MQTT-Thingsboard.py
 * Custom Auth Token based authentication
@@ -61,8 +58,3 @@ Here is some sample code for receiving MQTT data from Edge Intelligence and re-p
 	('TB JSON Data is:', '{"Temperature": 66}')
 
 	('Thingsboard Message sent with MID:', 1)
-
-	^Cexiting
-	Local MQTT Client Got Disconnected
-	('Disconnected from Thingsboard with rc:', 0)
-
