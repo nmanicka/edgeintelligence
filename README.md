@@ -1,6 +1,14 @@
 # Cisco Edge Intelligence Sample MQTT scripts
 
-Sample code for receiving MQTT data from Edge Intelligence and re-publishing to AWS IOT Core and ThingsBoard.
+**Cisco Edge Intelligence** (EI) allows to extract, tranform, govern and deliver data from sensor devices to cloud/datacenter applications.
+
+[Cisco Edge Intelligence on DevNet](https://developer.cisco.com/edge-intelligence)
+
+Using standard MQTT destination configuration in EI, data can be forwarded to many destinations like AWS IoT Core, ThingsBoard dashboard etc.
+
+![Sample data flow](EI_Sample_Code_FlowDiagram.jpg)
+
+Here is some sample code for receiving MQTT data from Edge Intelligence and re-publishing to AWS IOT Core and ThingsBoard.
 
 ### 1. AWS IOT Core : EI-MQTT-AWS.py
 * X.509 certifcates based connection to AWS IOT Core
